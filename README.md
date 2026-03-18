@@ -62,7 +62,7 @@ http://localhost:8081
 * Authorization Server가 실행 중이어야 함
 * JWT 토큰이 필요함
 
-예시 Authorization Server 주소:
+예시 Local Authorization Server 주소:
 
 ```
 http://localhost:8080
@@ -70,7 +70,7 @@ http://localhost:8080
 
 ---
 
-## ⚙️ 설정 (application.properties)
+## ⚙️ 설정 (application-local.properties)
 
 ```properties
 server.port=8081
