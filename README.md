@@ -49,7 +49,7 @@ Protected API
 ./gradlew bootRun
 ```
 
-서버 실행 주소:
+로컬 서버 실행 주소:
 
 ```
 http://localhost:8081
